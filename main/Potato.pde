@@ -4,7 +4,7 @@ public class Potato{
   int angleRate;
   
   //contructor
-  Potato(int x, int y,){
+  Potato(int x, int y){
       this.x = x;
       this.y = y;
   }

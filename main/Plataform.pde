@@ -3,7 +3,7 @@ public class Plataform{
   int height;
   int x;
   int y;
-  int vel = 1;
+  int vel = 10;
   
   Plataform(int x, int y, int size, int height){
     this.size = size;
